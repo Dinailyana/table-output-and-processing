@@ -3,7 +3,7 @@ using papaparse and live server
 
 ## Technologies Used
 
-- **[PapaParse](https://www.papaparse.com/)** for reading and parsing the CSV file in the browser.
+- **[PapaParse](https://www.papaparse.com/) (https://cdnjs.com/libraries/PapaParse)** for reading and parsing the CSV file in the browser.
 - **Live Server** (VS Code extension) for testing and previewing the website locally.
 - **HTML, JavaScript, and GitHub Pages** for deployment.
 
