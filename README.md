@@ -1,4 +1,4 @@
-# table-output-and-processing
+# Table-Output-and-Processing
 using papaparse and live server
 
 ## Technologies Used
